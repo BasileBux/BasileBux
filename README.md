@@ -2,12 +2,13 @@
 
 Currently studying at [HEIG-VD](heig-vd.ch) in cybersecurity. 
 
-## 🛠️ Tools
+On [radicle](https://radicle.dev): did:key:z6MkqjqqdAqkLaoaGLp7JeZcmhvzpi9GTp64cEZeufKY6rx7
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="40" height="40"/> </a>
+<table>
+  <tr>
+    <td><img src="./assets/linux_powered.gif"/></td>
+    <td><img src="./assets/nixos-fancy.gif"/></td>
+    <td><img src="./assets/neovim.gif"/></td>
+    <td><img src="./assets/piracy-now.gif"/></td>
+  </tr>
+</table>
